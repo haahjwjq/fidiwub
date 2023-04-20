@@ -249,17 +249,11 @@ async def _(event):
                     await fifthon(functions.channels.UpdateUsernameRequest(
                         channel=ch, username=username))
                     await event.client.send_message(event.chat_id, f'''
-●━━━━━━━━●
-┏━━━━━┓
-- By ↣ @X_K_5
-┗━━━━━┛
-┏━━━━━┓
-↣ (@{username})
-┗━━━━━┛
-┏━━━━━┓
-- By ↣@IS_TNT
-┗━━━━━┛
-●━━━━━━━━●
+•- 𝑑𝑜𝑛𝑒 •- @x_k_5
+
+•- 𝑢𝑠𝑒𝑟 •-(@{username})
+ 
+•- 𝑐ℎ  •- @lucithon
 
     ''')
                     break
@@ -317,17 +311,11 @@ async def _(event):
                         await fifthon(functions.channels.UpdateUsernameRequest(
                             channel=ch, username=username))
                         await event.client.send_message(event.chat_id, f'''
-●━━━━━━━━●
-┏━━━━━┓
-- By ↣ @X_K_5
-┗━━━━━┛
-┏━━━━━┓
-↣ (@{username})
-┗━━━━━┛
-┏━━━━━┓
-- By ↣@IS_TNT
-┗━━━━━┛
-●━━━━━━━━●
+•- 𝑑𝑜𝑛𝑒 • -@x_k_5
+
+•- 𝑢𝑠𝑒𝑟 •-(@{username})
+ 
+•- 𝑐ℎ  •- @lucithon
 
     ''')
                         break
@@ -359,17 +347,11 @@ async def _(event):
                 await fifthon(functions.channels.UpdateUsernameRequest(
                     channel=ch, username=username))
                 await event.client.send_message(event.chat_id, f'''
-●━━━━━━━━●
-┏━━━━━┓
-- By ↣ @X_K_5
-┗━━━━━┛
-┏━━━━━┓
-↣ (@{username})
-┗━━━━━┛
-┏━━━━━┓
-- By ↣@IS_TNT
-┗━━━━━┛
-●━━━━━━━━●
+•- 𝑑𝑜𝑛𝑒 •- @x_k_5
+
+•- 𝑢𝑠𝑒𝑟 •-(@{username})
+ 
+•- 𝑐ℎ  •- @lucithon
 
     ''')
             except telethon.errors.rpcerrorlist.UsernameInvalidError:
