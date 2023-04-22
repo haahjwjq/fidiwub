@@ -1,15 +1,15 @@
 {
-    "name": "Lucithon",
+    "name": "TNT",
     "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
-    "logo" : "https://telegra.ph/file/cb60fceba65dfa36bd80a.jpg",
+    "logo" : "https://graph.org/file/1e59aa6826c645410337e.jpg",
     "stack": "container",
-    "repository": "https://github.com/perdark/per-sed",
+    "repository": "https://github.com/xx/TNT",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/SS7SS/Tepthon",
+    "website": "https://github.com/Xx/TNT",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",

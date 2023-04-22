@@ -1,3 +1,16 @@
-### FOR : [LUCITHON](https://t.me/LUCITHON) ###
+لا تلعب بذيلك
 
-![LUCITHON](https://telegra.ph/file/4992d6e018a251fee31b1.jpg)
+###(https://t.me/is_TnT)[TNTتيم]: تابع ###
+
+
+
+
+
+
+
+
+
+
+
+
+
