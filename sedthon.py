@@ -570,13 +570,13 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-**☆ Alqaed Source
-☆ الاصدار : 2.4
+**☆ TNT Source
+☆ الاصدار : 1.5
 ☆ البنك : `{ms}`
 ☆ التاريخ : `{m9zpi}`
 ☆ الايدي : `{event.sender_id}`
 ☆ المطور : @X_K_5
-☆ TNT Source : @X_K_5**
+☆ TNT Source : @Is_TNT**
 ''')
 
 
@@ -697,7 +697,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @X_k_5
+      - @X_K_5
 ''', reply_to=event)
 
 
@@ -790,7 +790,7 @@ ownerhson_id = 1906275234
 async def OwnerStart(event):
     sender = await event.get_sender()
     if sender.id == ownerhson_id :
-        order = await event.reply('اهلا مطوري علوش - @X_K_5')
+        order = await event.reply('اهلا مطوري ليل - @c_m_m')
 
 
 @sedthon.on(events.NewMessage(outgoing=True, pattern=r"\.ورود"))

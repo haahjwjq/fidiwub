@@ -1,15 +1,14 @@
 {
     "name": "TNT",
     "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
-    "logo" : "https://graph.org/file/1e59aa6826c645410337e.jpg",
     "stack": "container",
-    "repository": "https://github.com/xx/TNT",
+    "repository": "https://github.com/haahjwjq/fidiwub",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/Xx/TNT",
+    "website": "https://github./haahjwjq/fidiwub",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
