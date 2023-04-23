@@ -1,6 +1,6 @@
 {
     "name": "TNT",
-    "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
+    "description": " اهلا بكم في تنصيب سورس صيد 
     "stack": "container",
     "repository": "https://github.com/haahjwjq/fidiwub",
     "keywords": [
@@ -8,7 +8,7 @@
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github./haahjwjq/fidiwub",
+    "website": "https://github.com/haahjwjq/fidiwub",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",

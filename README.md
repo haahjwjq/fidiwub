@@ -1,16 +1,3 @@
-لا تغير الحقوق ضلعي
+### FOR : [TNT](https://t.me/is_tnt) ###
 
-### تابع :[لعلوش] (https://t.me/is_TNT) ###
-
-
-
-
-
-
-
-
-
-
-
-
-
+![TNT](https://telegra.ph/file/4992d6e018a251fee31b1.jpg)

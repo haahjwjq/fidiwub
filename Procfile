@@ -1,1 +1,1 @@
-worker: python3 sedthon.py
+worker: bash fifthon.py
